@@ -1,12 +1,9 @@
+import { LoginContainer } from './components/LoginContainer'
 import './global.css'
-import styles from './App.module.css' 
-
 function App() {
 
   return (
-    <div className={styles.container}>
-  
-    </div>
+    <LoginContainer />
   )
 }
 
