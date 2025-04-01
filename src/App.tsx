@@ -1,5 +1,5 @@
-import { LoginContainer } from './components/LoginContainer'
 import './global.css'
+import { LoginContainer } from './components/LoginContainer'
 function App() {
 
   return (
